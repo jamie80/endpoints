@@ -1,0 +1,44 @@
+{
+  "airportsData": [
+    {
+      "id": 1,
+      "city": "Warsaw",
+      "code": "WAW"
+    },
+    {
+      "id": 2,
+      "city": "Paris",
+      "code": "CDG"
+    },
+    {
+      "id": 3,
+      "city": "New York",
+      "code": "JFK"
+    },
+    {
+      "id": 4,
+      "city": "London",
+      "code": "LHR"
+    },
+    {
+      "id": 5,
+      "city": "Berlin",
+      "code": "TXL"
+    },
+    {
+      "id": 6,
+      "city": "Prague",
+      "code": "PRG"
+    },
+    {
+      "id": 7,
+      "city": "Amsterdam",
+      "code": "AMS"
+    },
+    {
+      "id": 8,
+      "city": "Madrid",
+      "code": "MAD"
+    }
+  ]
+}

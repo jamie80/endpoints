@@ -3,42 +3,66 @@
     {
       "id": 1,
       "city": "Warsaw",
-      "code": "WAW"
+      "code": "WAW",
+      "morningPrice": 199,
+      "afternoonPrice": 159,
+      "eveningPrice": 99
     },
     {
       "id": 2,
       "city": "Paris",
-      "code": "CDG"
+      "code": "CDG",
+      "morningPrice": 249,
+      "afternoonPrice": 209,
+      "eveningPrice": 149
     },
     {
       "id": 3,
       "city": "New York",
-      "code": "JFK"
+      "code": "JFK",
+      "morningPrice": 1599,
+      "afternoonPrice": 1259,
+      "eveningPrice": 1199
     },
     {
       "id": 4,
       "city": "London",
-      "code": "LHR"
+      "code": "LHR",
+      "morningPrice": 309,
+      "afternoonPrice": 259,
+      "eveningPrice": 199
     },
     {
       "id": 5,
       "city": "Berlin",
-      "code": "TXL"
+      "code": "TXL",
+      "morningPrice": 185,
+      "afternoonPrice": 155,
+      "eveningPrice": 125
     },
     {
       "id": 6,
       "city": "Prague",
-      "code": "PRG"
+      "code": "PRG",
+      "morningPrice": 179,
+      "afternoonPrice": 159,
+      "eveningPrice": 110
     },
     {
       "id": 7,
       "city": "Amsterdam",
-      "code": "AMS"
+      "code": "AMS",
+      "morningPrice": 215,
+      "afternoonPrice": 179,
+      "eveningPrice": 150
     },
     {
       "id": 8,
       "city": "Madrid",
-      "code": "MAD"
+      "code": "MAD",
+      "morningPrice": 399,
+      "afternoonPrice": 289,
+      "eveningPrice": 205
     }
   ]
 }

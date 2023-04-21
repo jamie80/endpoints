@@ -6,7 +6,10 @@
       "code": "WAW",
       "morningPrice": 199,
       "afternoonPrice": 159,
-      "eveningPrice": 99
+      "eveningPrice": 99,
+      "smallBag": 49.99,
+      "cabinBag": 99.99,
+      "checkinBag": 149.99
     },
     {
       "id": 2,
@@ -14,7 +17,10 @@
       "code": "CDG",
       "morningPrice": 249,
       "afternoonPrice": 209,
-      "eveningPrice": 149
+      "eveningPrice": 149,
+      "smallBag": 39.99,
+      "cabinBag": 89.99,
+      "checkinBag": 139.99
     },
     {
       "id": 3,
@@ -22,7 +28,10 @@
       "code": "JFK",
       "morningPrice": 1599,
       "afternoonPrice": 1259,
-      "eveningPrice": 1199
+      "eveningPrice": 1199,
+      "smallBag": 149.99,
+      "cabinBag": 299.99,
+      "checkinBag": 349.99
     },
     {
       "id": 4,
@@ -30,7 +39,10 @@
       "code": "LHR",
       "morningPrice": 309,
       "afternoonPrice": 259,
-      "eveningPrice": 199
+      "eveningPrice": 199,
+      "smallBag": 59.99,
+      "cabinBag": 109.99,
+      "checkinBag": 159.99
     },
     {
       "id": 5,
@@ -38,7 +50,10 @@
       "code": "TXL",
       "morningPrice": 185,
       "afternoonPrice": 155,
-      "eveningPrice": 125
+      "eveningPrice": 125,
+      "smallBag": 45.99,
+      "cabinBag": 95.99,
+      "checkinBag": 145.99
     },
     {
       "id": 6,
@@ -46,7 +61,10 @@
       "code": "PRG",
       "morningPrice": 179,
       "afternoonPrice": 159,
-      "eveningPrice": 110
+      "eveningPrice": 110,
+      "smallBag": 44.99,
+      "cabinBag": 94.99,
+      "checkinBag": 144.99
     },
     {
       "id": 7,
@@ -54,7 +72,10 @@
       "code": "AMS",
       "morningPrice": 215,
       "afternoonPrice": 179,
-      "eveningPrice": 150
+      "eveningPrice": 150,
+      "smallBag": 47.99,
+      "cabinBag": 97.99,
+      "checkinBag": 147.99
     },
     {
       "id": 8,
@@ -62,7 +83,10 @@
       "code": "MAD",
       "morningPrice": 399,
       "afternoonPrice": 289,
-      "eveningPrice": 205
+      "eveningPrice": 205,
+      "smallBag": 69.99,
+      "cabinBag": 119.99,
+      "checkinBag": 169.99
     }
   ]
 }
